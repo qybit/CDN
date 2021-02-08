@@ -9,7 +9,7 @@
 
 - wallpaper/3d 作者 snowflack 的作品 3D展览长廊 + 全屏展示（带落樱） + 视频展播+幻灯片播放 等全部154张图片资源。
 
-## jerryc127
+### jerryc127
 
 github 用户 [jerryc127](https://github.com/jerryc127) CDN 仓库中的图片资源。
 

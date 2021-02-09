@@ -1,7 +1,11 @@
 # CDN
 个人CDN库
 
-## 图片：均在Photo目录下
+## CDN/emoji
+
+来自 github 用户 [jerryc127](https://github.com/jerryc127) CDN 仓库
+
+## CDN/Photo
 
 所有图片文件均按照来源进行分类，如果有侵权绝无恶意，请联系删除。
 
